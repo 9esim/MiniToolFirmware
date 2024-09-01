@@ -2,7 +2,7 @@
 
 English | [简体中文](README_zh.md)
 
-The 9esim mini tool is a external (or we called extension) LPA on a board, which based on ESP32S3.
+The 9esim mini tool is an external (or we called extension) LPA on a board, which based on ESP32S3.
 
 Sorry for the delay! The firmware comes a little late because we encountered some problems in the debugging process. Now, we have solved these problems, and the firmware is ready. And we are also constantly optimizing the firmware to provide you with a better experience.
 
